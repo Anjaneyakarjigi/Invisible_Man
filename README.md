@@ -18,4 +18,4 @@ If you want to run with Webcam, Replace
 4. Run  the Project and check the output.
 
 
-optional extra info : If you want to run with IP webcamera from mobile, download IP-WebCam from playstore and replace URL provided by application
+optional extra info : If you want to run with IP webcamera from mobile, download IP-WebCam from playstore and replace URL provided by application [cap(url)] 
